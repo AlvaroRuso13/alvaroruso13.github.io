@@ -18,4 +18,4 @@ The Official Page of Alvaro Carrasco Carmona, student of Regenerative Biomedicin
 
 [Pincha aquí para conocer a Fernando]. ¡ES BROMA!
 
-[!Edificios.jpg]
+![Foto de edificios](Edificios.jpg)
